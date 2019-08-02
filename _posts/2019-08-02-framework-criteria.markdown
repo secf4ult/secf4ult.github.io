@@ -1,5 +1,3 @@
-# Framework Criteria
-
 ## Scope
 
 How much a framework tries to do for you?
