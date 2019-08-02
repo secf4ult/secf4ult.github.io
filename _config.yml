@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+@ Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   secf4ult's personal blog. I write about everything that fascinates me.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @secf4ult
-github_username: @secf4ult
+twitter_username: "@secf4ult"
+github_username: "@secf4ult"
 
 # Build settings
 markdown: kramdown
