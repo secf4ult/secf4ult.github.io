@@ -12,14 +12,14 @@ ESM (ECMAScript Module) 在 Node.js 12 中已经处于第二阶段（试验中�
 
 ##### 参考:
 
-1. [ECMAScript Modules | Node.js 12 Documentation](https://nodejs.org/docs/latest-v12.x/api/esm.html)
+1. [ECMAScript Modules \| Node.js 12 Documentation](https://nodejs.org/docs/latest-v12.x/api/esm.html)
 2. [Announcing a new --experimental-modules](https://medium.com/@nodejs/announcing-a-new-experimental-modules-1be8d2d6c2ff)
 3. [The new ECMAScript module support in Node.js 12](https://2ality.com/2019/04/nodejs-esm-impl.html)
 4. [PR on ESM implementation](https://github.com/nodejs/node/pull/26745)
 
 [1]: https://2ality.com/2019/04/nodejs-esm-impl.html#interoperability
 
-===
+---
 
 ESM (ECMAScript Module) is now phase 2 (Experimental) in Node.js 12 and can be activated with optional flag.
 
@@ -31,11 +31,11 @@ Caveat:
 
 - Currently (as for Node.js 12.7.0) importing directories is not supported.
 - Interoperability between CommonJS and ESM is still not perfect, [extra work][1] needed.
-- `__filename` and `__dirname` are not available in ESM, use `import.meta.url` insted.
+- `__filename` and `__dirname` are not available in ESM, use `import.meta.url` instead.
 
 ##### Useful Links:
 
-1. [ECMAScript Modules | Node.js 12 Documentation](https://nodejs.org/docs/latest-v12.x/api/esm.html)
+1. [ECMAScript Modules \| Node.js 12 Documentation](https://nodejs.org/docs/latest-v12.x/api/esm.html)
 2. [Announcing a new --experimental-modules](https://medium.com/@nodejs/announcing-a-new-experimental-modules-1be8d2d6c2ff)
 3. [The new ECMAScript module support in Node.js 12](https://2ality.com/2019/04/nodejs-esm-impl.html)
 4. [PR on ESM implementation](https://github.com/nodejs/node/pull/26745)
